@@ -1,0 +1,47 @@
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.s1 {
+    background: url('../img/one.jpg');
+    background-size: cover;
+
+    h1 {
+        top: 70% !important;;
+    }
+   
+}
+
+.s2 {
+    background: url('../img/two.jpg');
+    background-size: cover;
+
+    h1 {
+        text-align: left;
+        margin-left: 2em;
+        font-size: 4rem;
+    }
+   
+}
+
+.s3 {
+    background: url('../img/three.jpg');
+    background-size: cover;
+
+    h1 {
+        text-align: left;
+        margin-left: 2em;
+        font-size: 2rem;
+    }
+   
+}
+
+span {
+    background: whitesmoke !important;
+}
+
+/*# sourceMappingURL=main.scss.map */
+
+/*# sourceMappingURL=main.scss.map */
