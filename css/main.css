@@ -9,7 +9,9 @@ h1 {
   background-size: cover;
 }
 .s1 h1 {
-  top: 70% !important;
+  text-align: left;
+  margin-left: 2em;
+  font-size: 3rem;
 }
 
 .s2 {
@@ -29,7 +31,29 @@ h1 {
 .s3 h1 {
   text-align: left;
   margin-left: 2em;
+  font-size: 3rem;
+}
+
+.s4 {
+  background: url("../img/four.jpg");
+  background-size: cover;
+}
+.s4 h1 {
+  margin-top: 70vh;
+  text-align: left;
+  margin-left: 2em;
+  font-size: 5rem;
+}
+
+.s5 {
+  background: url("../img/five.jpg");
+  background-size: cover;
+}
+.s5 h1 {
+  text-align: left;
+  margin-left: 2em;
   font-size: 2rem;
+  margin-top: 30%;
 }
 
 span {

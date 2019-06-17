@@ -9,7 +9,9 @@ h1 {
     background-size: cover;
 
     h1 {
-        top: 70% !important;;
+        text-align: left;
+        margin-left: 2em;
+        font-size: 3rem;
     }
    
 }
@@ -33,7 +35,31 @@ h1 {
     h1 {
         text-align: left;
         margin-left: 2em;
+        font-size: 3rem;
+    }
+   
+}
+.s4 {
+    background: url('../img/four.jpg');
+    background-size: cover;
+
+    h1 {
+        margin-top: 70vh;
+        text-align: left;
+        margin-left: 2em;
+        font-size: 5rem;
+    }
+   
+}
+.s5 {
+    background: url('../img/five.jpg');
+    background-size: cover;
+
+    h1 {
+        text-align: left;
+        margin-left: 2em;
         font-size: 2rem;
+        margin-top: 30%;
     }
    
 }
